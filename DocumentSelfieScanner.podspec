@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'DocumentSelfieScanner'
-  s.version          = '4.4.0'
+  s.version          = 'MOB-5314'
   s.summary          = 'IDMetricsSelfieCapture SDK v4.3.0
 
 # This description is used to generate tags and improve search results.
