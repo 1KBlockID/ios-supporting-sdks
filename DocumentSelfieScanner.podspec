@@ -23,7 +23,7 @@ This scanner comprises of two different SDK's, IDMetricsSelfieCapture SDK which 
 
   s.homepage         = 'https://github.com/1KBlockID/ios-supporting-sdks.git'
   s.author           = { 'prasanna-gupta-1kosmos' => 'prasanna.gupta@1kosmos.com' }
-  s.source           = { :git => 'https://github.com/1KBlockID/ios-supporting-sdks.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/1KBlockID/ios-supporting-sdks.git', :branch => s.version.to_s }
 
   # set platform and minimum deployment target
   s.platform = :ios
